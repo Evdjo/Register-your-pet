@@ -1,2 +1,2 @@
 # Register-your-pet
-Exercising javascript
+Exercising javascript doing a html page where you can register your pet.
